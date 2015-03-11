@@ -1,3 +1,4 @@
 # nanocnc
 nanocnc small cnc engraver
-alpha test! a small cnc pcb engraver
+
+alpha test! dont cut or print, warned!
