@@ -4,4 +4,5 @@ STL files
 - 1x - Z carriage
 - 1x - Y axis screw holder
 - 4x - Y axis bars holeder
+- 4x - End axis bearing holder
  
