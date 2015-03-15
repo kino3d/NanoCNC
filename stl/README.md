@@ -1,2 +1,7 @@
+STL files 
 
-- X carriage 1.05 
+- 1x - X carriage  
+- 1x - Z carriage
+- 1x - Y axis screw holder
+- 4x - Y axis bars holeder
+ 
