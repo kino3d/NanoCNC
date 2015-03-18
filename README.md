@@ -23,8 +23,8 @@ alpha test! dont cut, print or buy, you are warned!
 - 8 x 6mm &#8960; shaft collar
 
 ### Printed and cut parts
-- printed parts [stl](/stl)
-- wood cut parts [svg](/svg)
+- [printed parts](/stl)
+- [wood cut parts](/svg)
 
 ### Electronics
 - Arduino UNO 
