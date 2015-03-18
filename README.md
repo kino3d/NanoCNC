@@ -20,7 +20,7 @@ alpha test! dont cut, print or buy, you are warned!
 - 32 x M6 nut
 - 32 x M6 large washer
 - 4 x 250x250mm MDF wood 10mm
-- 8 x 6mm &#8960 shaft collar
+- 8 x 6mm &#8960; shaft collar
 
 ### Printed and cut parts
 - printed parts [stl](/stl)
