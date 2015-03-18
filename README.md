@@ -14,8 +14,8 @@ alpha test! dont cut, print or buy, you are warned!
 - ...
 
 ### Printed and cut parts
-- (stl)
-- (svg)
+- [stl](/stl)
+- [svg](/svg)
 
 ### Eletronics
 - Arduino UNO R3
