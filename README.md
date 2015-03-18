@@ -17,7 +17,7 @@ alpha test! dont cut, print or buy, you are warned!
 - [stl](/stl)
 - [svg](/svg)
 
-### Eletronics
+### Electronics
 - Arduino UNO R3
 - Protoneerz CNC aduino shield V3
 - 2 x Nema 14
